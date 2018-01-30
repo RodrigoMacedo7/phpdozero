@@ -9,4 +9,4 @@ Dispensando em muitos casos o uso de arquivos externos para eventuais processame
 
 <h2>Evolução do PHP</h2>
 
-A linguagem evoluiu, passou a oferecer funcionalidades em linha de comando, e além disso, ganhou características adicionais, que possibilitaram usos adicionais do PHP, não relacionados a web sites. Existem inúmeros sistemas que utilizam a linguagem.
+A linguagem evoluiu, passou a oferecer funcionalidades em linha de comando, e além disso, ganhou características adicionais, que possibilitaram usos adicionais do PHP, não relacionados a web sites. Existem inúmeros sistemas que utilizam a linguagem. Para mais informações, veja <a href="https://cursophpdozeroaoprofissional.com/">PHP do Zero ao Profissional</a>.
